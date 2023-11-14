@@ -150,7 +150,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Screenshot 2023-11-07 173232](https://github.com/Harish2404lll/Calc/assets/141472096/f70146f6-6a2d-4c25-956c-806c1a543ebb)
+![WhatsApp Image 2023-11-08 at 19 40 56_3ebb10ec](https://github.com/Harish2404lll/Calc/assets/141472096/747408f1-5794-4cbe-97f3-44b51a790f57)
+
 
 
 ## RESULT:
